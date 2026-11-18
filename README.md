@@ -132,4 +132,4 @@ The custom application is provided under `LICENSE-APP.txt`. Tasmota is an extern
 
 ## Author
 
-Bidyadhar Jena
+Diptiprava Samal
